@@ -1,0 +1,11 @@
+Galiceanu Alina-Madalina Tema 2 IOCLA
+
+Pentru implementarea taskului numarul, am parcurs ecx pana la 
+intalnirea terminatorului de sir, pentru a determina adresa cheii
+de care avem nevoie pentru decriptare. Decriptarea a fost facuta prin
+aplicarea operatiei de xor pentru fiecare byte din string cu byte-ul
+corespunzator din cheie.
+
+Pentru task 2 am parcurs sirul pentru a ne pozitiona pe ultima pozitie
+pentru a putea face decriptarea prin aplicarea operatiei de xor
+pe fiecare byte si predecesorul acestuia.
